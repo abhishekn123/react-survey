@@ -1,0 +1,24 @@
+{
+  "files": {
+    "app.js": "/static/js/app.d80532cb.chunk.js",
+    "app.js.map": "/static/js/app.d80532cb.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.44ddfa1e.js",
+    "runtime~app.js.map": "/static/js/runtime~app.44ddfa1e.js.map",
+    "static/js/2.cc5a230f.chunk.js": "/static/js/2.cc5a230f.chunk.js",
+    "static/js/2.cc5a230f.chunk.js.map": "/static/js/2.cc5a230f.chunk.js.map",
+    "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
+    "fonts/Ionicons.ttf": "/./fonts/Ionicons.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/media/survey.png": "/static/media/survey.1490de31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.44ddfa1e.js",
+    "static/js/2.cc5a230f.chunk.js",
+    "static/js/app.d80532cb.chunk.js"
+  ]
+}
